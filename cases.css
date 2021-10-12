@@ -1,0 +1,77 @@
+.covidscreen{
+    width: 410px;
+    height: 100%;
+    color: black;
+    font-family: monospace;
+}
+#covid-image{
+    width: 408px;
+}
+#about-covid{
+    font-size: 14px;
+}
+#head{
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: black;
+    text-align: center;
+}
+.all-info{
+    display: flex;
+    font-size: 21px;
+    text-align: center;
+    margin-top: 20px;
+}
+#newcases{
+    font-size: 21px;
+    font-family: cursive;
+    font-weight: bold;
+    color: black;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+#recoveredcases{
+    font-size: 21px;
+    font-family: cursive;
+    font-weight: bold;
+    color: black;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+#deathcases{
+    font-size: 21px;
+    font-family: cursive;
+    font-weight: bold;
+    color: black;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+.display-cases{
+    display: flex;
+    margin-top: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+#inform-gover{
+    font-size: 20px;
+    color: black;
+}
+.governer{
+    width: 407px;
+    display: flex;
+}
+.website{
+    width: 100%;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
